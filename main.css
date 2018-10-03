@@ -1,0 +1,94 @@
+body {
+	font-family: calibri;
+	margin: 0;
+}
+
+header {
+	background: lightgrey;
+	padding: 15px 15px 0px 15px;
+	margin: 0;
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+}
+
+h1 {
+	font-size: 35px;
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+}
+
+nav ul li {
+	background: darkgrey;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px;
+}
+
+nav ul li a {
+	color: white;
+}
+
+.row {
+
+}
+
+.col {
+	background: grey;
+	color: white;
+	padding: 10px;
+	margin: 10px 10px 10px 0;
+	border-radius: 5px;
+	float: left;
+}
+
+a {
+	color: white;
+}
+
+.caption {
+	padding: 10px;
+	margin: 0 10px;
+	font-size: 15px;
+}
+
+footer {
+	clear: both;
+	float: right;
+}
+
+img {
+	height: 800px;
+	width: 480px;
+	padding: 3px;
+	background: black;
+	margin: 0 15px;
+}
+
+.intro {
+	text-align: justify;
+	width: 600px;
+	padding: 10px;
+	margin: 0 10px;
+	font-size: 15px;
+}
+
+.interests {
+	background: grey;
+	color: white;
+	padding: 10px;
+	margin: 0px 15px 15px 15px;
+	border-radius: 5px;
+	float: left;
+}
+
+h3 {
+	margin: 5px;
+}
